@@ -42,7 +42,3 @@ input {
     display: flex;
     flex-wrap: wrap;
 }
-
-.drawn {
-    background-color: #212A3E;
-}
