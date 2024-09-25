@@ -21,6 +21,17 @@ button {
     border-radius: 5px;
 }
 
+input {
+    border: 2px solid #212A3E;
+
+}
+
+.user-input {
+    min-width: 180px;
+    display: flex;
+    justify-content: space-between;
+}
+
 .container {
     flex-shrink: 0;
     background-color: #F1F6F9;
