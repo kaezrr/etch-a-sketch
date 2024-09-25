@@ -13,6 +13,8 @@ body {
     flex-shrink: 0;
     border: 3px solid #6EACDA;
     border-radius: 3px;
-    min-width: 320px;
-    min-height: 320px;
+    max-width: 320px;
+    max-height: 320px;
+    display: flex;
+    flex-wrap: wrap;
 }
