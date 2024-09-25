@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container {
+    flex-shrink: 0;
+    border: 3px solid black;
+    border-radius: 3px;
+    min-width: 320px;
+    min-height: 320px;
+}
